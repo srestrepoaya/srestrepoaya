@@ -1,34 +1,69 @@
-# Hi, I'm Santiago! 👋
+<h2 align="left">Hi 👋! My name is Santiago and I'm a web developer</h2>
 
-## 🚀 About Me
-I am a software engineer with experience in web development. I have a strong understanding of Python, HTML, CSS, and TypeScript, and I am proficient in using different methodologies for software development, including Agile. I am also a team player with excellent communication and leadership skills.
+###
 
-I am passionate about computer technology and I am always looking for new ways to learn and grow. I am particularly interested in artificial intelligence, data analysis, and UX/UI design.
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=srestrepoaya&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=srestrepoaya&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-I am looking for a challenging and rewarding position where I can use my skills and experience to make a difference.
-## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://t3.ftcdn.net/jpg/03/53/83/92/360_F_353839266_8yqhN0548cGxrl4VOxngsiJzDgrDHxjG.jpg)
+###
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/srestrepoaya/)
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="30" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="30" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/sass/CC6699" height="30" alt="sass logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="30" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+</div>
 
-[![gmail](https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:s.restrepoaya@gmail.com)
+###
 
+<div align="left">
+  <a href="mailto:s.restrepoaya@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/srestrepoaya/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+</div>
 
-## 🛠 Skills
-[![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=f5f5f5)](https://angular.io/)
+###
 
-[![Bootstrap](https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=f5f5f5)](https://getbootstrap.com/)
+<img align="left" height="200" src="https://media.tenor.com/jRcpod5gY0sAAAAC/cat-typing.gif"  />
 
-[![Mysql](https://img.shields.io/badge/Mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=f5f5f5)](https://www.mysql.com/)
+###
 
-[![Node.js](https://img.shields.io/badge/NOde.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=f5f5f5)](https://nodejs.org/es)
+<br clear="both">
 
-[![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=f5f5f5)](python.org)
+<img src="https://raw.githubusercontent.com/srestrepoaya/srestrepoaya/output/snake.svg" alt="Snake animation" />
 
-[![React](https://img.shields.io/badge/REACT-61DBFB?style=for-the-badge&logo=react&logoColor=000000)](https://es.react.dev/)
+###
 
-[![Sass](https://img.shields.io/badge/sass-CC6699?style=for-the-badge&logo=sass&logoColor=f5f5f5)](https://sass-lang.com/)
+<img align="right" height="200" src="https://media.tenor.com/-LH1JDuinOYAAAAd/john-cena-dance.gif"  />
 
-[![Tailwindcss](https://img.shields.io/badge/tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=f5f5f5)](https://tailwindcss.com/)
+###
 
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=for-the-badge&logo=typescript&logoColor=f5f5f5)](https://www.typescriptlang.org/)
+<div align="right">
+  <a href="https://open.spotify.com/user/9bxf6c5g09s9vxbn3rtc2xhke">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?count=5&unique=false" alt="Spotify recently played"  />
+  </a>
+</div>
+
+###
